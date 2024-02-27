@@ -43,6 +43,7 @@ img{
 }
 .nav-link-active{
   position: relative;
+  color: #404bbf;
 }
 .nav-link-active::after{
   content: "";
