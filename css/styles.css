@@ -385,6 +385,7 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
 .site-footer-container-links{
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 .site-footer-text-links{
   font-weight: 500;
@@ -399,9 +400,6 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
   justify-content: center;
   gap: 16px;
   margin-top: 8px;
-}
-.site-footer-item-ikons{
-  display: list-item;
 }
 .site-footer-social-links{
   display: flex;
