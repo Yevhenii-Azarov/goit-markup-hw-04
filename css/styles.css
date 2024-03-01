@@ -431,7 +431,6 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
   display: flex;
   justify-content: center;
   gap: 16px;
-  margin-top: 8px;
 }
 .site-footer-social-links{
   display: flex;
